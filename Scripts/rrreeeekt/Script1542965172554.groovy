@@ -23,3 +23,5 @@ WebUI.getText(findTestObject(null))
 
 WebUI.delay(0)
 
+WebUI.clickImage(findTestObject(null))
+
