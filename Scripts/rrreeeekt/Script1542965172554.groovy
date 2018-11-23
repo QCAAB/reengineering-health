@@ -17,3 +17,5 @@ WebUI.click(findTestObject(null))
 
 WebUI.clearText(findTestObject(null))
 
+WebUI.delay(0)
+
