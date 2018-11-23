@@ -15,5 +15,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.click(findTestObject(null))
 
-WebUI.delay(0)
+WebUI.acceptAlert()
 
