@@ -19,5 +19,7 @@ WebUI.clearText(findTestObject(null))
 
 WebUI.getText(findTestObject(null))
 
+WebUI.getText(findTestObject(null))
+
 WebUI.delay(0)
 
