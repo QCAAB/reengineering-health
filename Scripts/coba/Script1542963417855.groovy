@@ -19,3 +19,11 @@ WebUI.acceptAlert()
 
 WebUI.acceptAlert()
 
+WebUI.clickImage(findTestObject(null))
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
